@@ -1,2 +1,2 @@
 main file 12345
-Checking the rebase
+Checking the rebase new changes
